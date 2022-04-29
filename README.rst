@@ -1,6 +1,6 @@
 .. -*- mode: rst -*-
 
-|PyPI|_ |GH-CI|_
+|PyPI|_
 
 .. |PyPI| image:: https://badge.fury.io/py/scanhub.svg?label=PyPI%20downloads
 .. _PyPI: https://pypi.org/project/scanhub/
