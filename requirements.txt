@@ -2,5 +2,10 @@
 # requirements for ScanHub Tools
 psutil >= 5.9.0
 websockets >= 10.3
+numpy==1.22.3
+Pillow==9.1.0
+pydicom==2.3.0
+PySide6==6.3.0
 requests >= 2.27.1
+azure-storage-queue >= 12.3.0
 azure-storage-blob >= 12.11.0
