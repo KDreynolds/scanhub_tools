@@ -18,5 +18,4 @@
 
 from ._version import __version__
 
-from .acquisitioncontrol import (AcquisitionControl)
-from .datastream import (DataStream, DataStreamError, DataStreamWarning)
+from .device.acquisitioncontrol import (AcquisitionControl)
