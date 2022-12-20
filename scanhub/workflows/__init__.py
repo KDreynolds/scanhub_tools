@@ -1,4 +1,4 @@
-"""ScanHub"""
+"""Module for scanhub workflows."""
 
 # Authors: Christoph Dinh <christoph.dinh@brain-link.de>
 #          Johannes Behrens <johannes.behrens@brain-link.de>
@@ -22,6 +22,4 @@
 # Dev branch marker is: 'X.Y.devN' where N is an integer.
 #
 
-from ._version import __version__
-
-from .workflows.mri import (RecoJob)
+from .mri import (RecoJob)
