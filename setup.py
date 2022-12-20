@@ -30,6 +30,8 @@ descr = """ScanHub Tools"""
 
 DISTNAME = 'scanhub'
 DESCRIPTION = descr
+AUTHOR = 'Christoph Dinh'
+AUTHOR_EMAIL = 'christoph.dinh@brain-link.de'
 MAINTAINER = 'Christoph Dinh'
 MAINTAINER_EMAIL = 'christoph.dinh@brain-link.de'
 URL = 'https://github.com/brain-link/scanhub_tools'
