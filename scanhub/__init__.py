@@ -1,4 +1,9 @@
 """ScanHub"""
+# Authors: Christoph Dinh <christoph.dinh@brain-link.de>
+#          Johannes Behrens <johannes.behrens@brain-link.de>
+#          David Schote <david.schote@brain-link.de>
+#
+# License: BSD-3-Clause
 
 # PEP0440 compatible formatted version, see:
 # https://www.python.org/dev/peps/pep-0440/
@@ -18,4 +23,4 @@
 
 from ._version import __version__
 
-from .device.acquisitioncontrol import (AcquisitionControl)
+from .workflows.mri.jobs import (RecoJob)
